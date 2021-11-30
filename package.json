@@ -1,0 +1,23 @@
+{
+    "id": "zeusepita",
+    "name": "Zeus Epita",
+    "version": "1.0.0",
+    "description": "Zeus Epita",
+    "main": "index.js",
+    "author": "Marius ANDRE <Boba>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://zeus.3ie.fr/",
+      "serviceName": "Zeus Epita",
+      "message": "Zeus Epita",
+      "popup": [],
+      "hasNotificationSound": false,
+      "hasIndirectMessages": false,
+      "customURL": false,
+      "hasTeamID": false,
+      "webviewOptions": {
+        "disablewebsecurity": ""
+      },
+      "openDevTools": false
+    }
+  }
